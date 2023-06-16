@@ -14,3 +14,7 @@ The Objective of this project is to helping cat lovers to identify cat breeds an
 Link for dataset : https://kaggle.com/datasets/8ada2f018bdc6ccb6f4555c78564e599693ae30199f99961bdec56c3221dceb1
 
 New dataset : https://kaggle.com/datasets/6680b985adb7b8d635c65ce331b34a4b31d4c29404759c7791d04de411b27874
+
+Link for Model : https://drive.google.com/file/d/1md6H9eaASeLdcaCiEeLfUSmxItjNj3Rz/view?usp=drive_link
+
+Link for tflite Model : https://drive.google.com/file/d/1QJfthNMFBAZe5GdXHc0aSJ9RE2kSJSL2/view?usp=drive_link
