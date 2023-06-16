@@ -1,4 +1,4 @@
-# Cat_Breed_Classification
+# Cat Identifier
 Repository for capstone C23-PC675 team
 Team ID: C23-PC675
 Team Member: 
